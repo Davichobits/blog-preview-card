@@ -11,7 +11,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Live site
 
-- [Live preview](https://davichobits.github.io/qr-code-component/)
+- [Live preview](https://davichobits.github.io/blog-preview-card/)
 
 ## Author
 
